@@ -1,0 +1,18 @@
+.parent {
+  position: relative;
+  width: 500px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.child {
+  position: absolute;
+  width: 200%;
+  height: 100%;
+  background-color: rgb(206, 125, 125);
+}
+
+.block {
+  height: 500px;
+  background-color: beige;
+}
